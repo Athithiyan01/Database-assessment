@@ -1,5 +1,5 @@
 10.Delete the products which product price value are 28
-query:db.demoWorks.deleteMany({ product_price: 28 })
+query:db.demoWorks.deleteMany({ product_price: 28 })//use this command in mongodb shell
 output:
 [
     {
