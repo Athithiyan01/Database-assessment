@@ -1,0 +1,14 @@
+
+6.Find the product with a row id of 10
+query:{ id: "10" }
+output:
+[{
+  "_id": {
+    "$oid": "6857f0deba0ea582033ae658"
+  },
+  "id": "10",
+  "product_name": "Generic Wooden Pizza",
+  "product_price": 84,
+  "product_material": "Frozen",
+  "product_color": "indigo"
+}]
