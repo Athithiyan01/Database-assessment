@@ -8,3 +8,4 @@ CREATE TABLE employee (
     empage INT,
     esalary DOUBLE
 );
+select * FROM employee;
